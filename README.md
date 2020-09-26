@@ -1,5 +1,5 @@
 # Coursera-Courses
-My submissions for the courses done.
+My submissions and the slides for the courses done.
 
 
 Courses completed:
